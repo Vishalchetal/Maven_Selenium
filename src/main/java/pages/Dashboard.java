@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class Dashboard {
 
 	private WebDriver driver;
-//	 Making a dashboard instance
+// comment by vishal
 	public Dashboard(WebDriver dr) 
 	{
 		this.driver=dr;
